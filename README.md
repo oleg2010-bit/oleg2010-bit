@@ -1,6 +1,8 @@
-# Олег Кидалов
+# 🧑‍💻 Олег Кидалов — разработчик
 
-Разработчик. Работаю с Python, HTML, CSS, JavaScript.
+**Python • HTML • CSS • JavaScript** — делаю реальные проекты, а не просто учебные примеры.
+
+---
 
 ## Tech Stack
 
@@ -9,6 +11,14 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-## Проекты
+---
 
-- **Chatting IT Moscow** — бот‑комьюнити для IT‑студентов Москвы.
+## 🔥 Главный проект: Chatting IT Moscow
+
+**Это бот‑комьюнити для IT‑студентов Москвы** — место, где можно обсуждать задачи, искать напарников и узнавать про события.
+
+### 🚀 Как запустить (коротко)
+
+1. Клонируй репозиторий:  
+   ```bash
+   git clone <ССЫЛКА_НА_ТВОЙ_РЕПОЗИТОРИЙ>
